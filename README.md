@@ -8,3 +8,4 @@
 manjotsinghbagha/manjotsinghbagha is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
 --->
+![Metrics](https://metrics.lecoq.io/manjotsinghbagha?template=terminal&base.activity=0&base.metadata=0&lines=1&config.timezone=Asia%2FKolkata)
