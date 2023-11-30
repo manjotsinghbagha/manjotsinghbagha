@@ -1,5 +1,6 @@
 # 💫 About Me:
-🔭 I’m currently working on Django and Python.<br>👯 I’m looking to collaborate on any Project,<br>            Do you have a Idea Ping Me @manjotsinghbagha<br>🌱 I’m currently learning Unreal Engine 5 and in Final Year of My B.Tech CSE.<br>💬 Ask me about anything If i know about it, I will just Answer It <br>            or else I will learn and Then Answer You Then.
+🔭 I’m currently working on Django and Python.<br>👯 I’m looking to collaborate on any Project,<br>            Do you have a Idea Ping Me @manjotsinghbagha<br>🌱 I am Fresh Graduate of B.Tech CSE .<br>
+👯 I am currently looking for a Job as Python Developer / Back end Developer. <br>💬 Ask me about anything If i know about it, I will just Answer It <br>            or else I will learn and Then Answer You Then.
 
 
 ## 🌐 Socials:
